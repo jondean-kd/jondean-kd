@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer currently working as a HubSpot and web developer, utilising all the usual HubSpot HubL fun, alongside custom React components and integrations in both the CRM and CMS.
+I'm a full stack developer currently working as a HubSpot and web developer, utilising all the usual HubSpot HubL fun alongside custom React components and integrations in both the CRM and CMS.
 
 
 ## 🛠 Technologies & Tools
