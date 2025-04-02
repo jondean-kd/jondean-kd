@@ -12,7 +12,7 @@ I'm a full stack developer currently working as a HubSpot and web developer, uti
 ![Node.js](https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs.svg "Node.js")
 ![jQuery](https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/jquery_logo.svg "jQuery")
 ![GitHub](https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/git.svg "GitHub")
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hubspot.svg" alt="HubSpot" width="32" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hubspot.svg" alt="HubSpot" title="HubSpot" width="32" />
 ![HTML5](https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/html5.svg "HTML5")
 ![CSS3](https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/css3.svg "CSS3")
 ![Visual Studio Code](https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/visualstudio.svg "Visual Studio Code")
